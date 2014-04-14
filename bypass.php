@@ -3,7 +3,6 @@
 	 * Author: Laterain
 	 * Time: 20130820
 	 * About: Confusion to encrypt php webshell, Bypass the WAF
-	 * Just For Fun
 	 */
 	 
 	if ($argc < 4) {
